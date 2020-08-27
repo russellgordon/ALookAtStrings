@@ -142,7 +142,7 @@ print("Second last character is: \(secondLast)")
 // This will separate the output from the examples above from your work
 print("===== Exercise 1 begins =====")
 
-
+print("I'm done")
 
 /*:
 ### Exercise 2
